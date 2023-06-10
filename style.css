@@ -1,0 +1,12 @@
+#heading{
+    background-color:white;
+    margin:0;
+    padding:20px;
+}
+body{
+    background-color:firebrick;
+}
+.btn1{
+    margin:25px;
+    font-size:25px;
+}
